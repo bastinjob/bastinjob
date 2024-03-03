@@ -1,4 +1,6 @@
-# I am Bastin - ## and I love story telling!
+# I am Bastin - and I love story telling!
+
+### n   
 
 ![Alt Text](skills.png)
 
