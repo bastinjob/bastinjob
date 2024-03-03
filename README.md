@@ -4,6 +4,8 @@
 
 ![Alt Text](skills.png)
 
+![Alt Text](career.png)
+
 ![Alt Text](howicode.png)
 
 
