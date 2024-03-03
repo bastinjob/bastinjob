@@ -1,4 +1,12 @@
 ### Hi there 👋
+### I am Bastin. 
+### I am a showcasing expertise in data science and machine learning. With a track record of innovation and impact, Bastin combines technical prowess with creative problem-solving to deliver actionable insights and solutions.
+
+Description:
+
+Explore projects spanning machine learning, deep learning, natural language processing, and computer vision. From optimizing data pipelines to pioneering edge computation solutions, my portfolio reflects a commitment to pushing the boundaries of AI technology. Whether you're a data enthusiast or potential collaborator, delve into my work to witness the power of data-driven innovation.
+
+![Alt Text](skills.png)
 
 <!--
 **bastinjob/bastinjob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
