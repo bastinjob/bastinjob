@@ -1,6 +1,6 @@
 # I am Bastin - and I love story telling!
 
- ### I put my code in outer space! 
+ ### I put my code in outer space! [Learn More](https://tinyurl.com/2y66uber)
 
 ![Alt Text](skills.png)
 
