@@ -4,6 +4,8 @@
 
 ![Alt Text](skills.png)
 
+![Alt Text](howicode.png)
+
 
 Here are some ideas to get you started:
 
