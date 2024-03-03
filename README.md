@@ -1,6 +1,6 @@
-### Hi there 👋
+
 ### I am Bastin. 
-### I am a showcasing expertise in data science and machine learning. With a track record of innovation and impact, Bastin combines technical prowess with creative problem-solving to deliver actionable insights and solutions.
+## I am a story teller
 
 Description:
 
