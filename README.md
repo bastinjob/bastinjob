@@ -2,8 +2,6 @@
 
  ### I put my code in outer space! [Learn More](https://tinyurl.com/2y66uber)
 
-![My Skills](skills.png)
-
 <img align="center" src="skills.png" alt="skills">
 
 ![Alt Text](career.png)
