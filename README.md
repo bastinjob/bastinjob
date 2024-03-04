@@ -2,7 +2,7 @@
 
  ### I put my code in outer space! [Learn More](https://tinyurl.com/2y66uber)
 
-![Alt Text](skills.png)
+![My Skills](skills.png)
 
 ![Alt Text](career.png)
 
