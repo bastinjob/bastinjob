@@ -4,9 +4,7 @@
 
 <img align="center" src="skills.png" alt="skills">
 
-![Alt Text](career.png)
 
-![Alt Text](howicode.png)
 
 
 Here are some ideas to get you started:
