@@ -4,6 +4,9 @@
 
 <img align="center" src="skills.png" alt="skills">
 
+![Alt Text](career.png)
+
+![Alt Text](howicode.png)
 
 
 
