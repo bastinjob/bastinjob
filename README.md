@@ -19,8 +19,8 @@ Below are some of my projects with descriptions and links to their repositories:
 |---------|-------------|
 | <a href="link_to_repository1"><img src="1.jpg" alt="Unsupervised Satellite Image Building Rooftop Detection" width="200"></a> | [Unsupervised Satellite Image Building Rooftop Detection](https://www.linkedin.com/posts/bastinjob_satelliteimaging-aiinnovation-unsupervisedlearning-activity-7094535204324671488-RhFm?utm_source=share&utm_medium=member_desktop) |
 | <a href="link_to_repository2"><img src="2.png" alt="Project 2" width="200"></a> | [DINING HALL SUBSHIFT MANAGEMENT SYSTEM](https://github.com/bastinjob/Employee-Subshift-Database-System) |
-| <a href="link_to_repository3"><img src="link_to_thumbnail_image3" alt="Project 3" width="200"></a> | Brief description of project 3. |
-| <a href="link_to_repository4"><img src="link_to_thumbnail_image4" alt="Project 4" width="200"></a> | Brief description of project 4. |
+| <a href="link_to_repository3"><img src="link_to_thumbnail_image3" alt="Project 3" width="200" height="100"></a> | Brief description of project 3. |
+| <a href="link_to_repository4"><img src="link_to_thumbnail_image4" alt="Project 4" width="200" height = "100"></a> | Brief description of project 4. |
 | <a href="link_to_repository5"><img src="link_to_thumbnail_image5" alt="Project 5" width="200"></a> | Brief description of project 5. |
 | <a href="link_to_repository6"><img src="link_to_thumbnail_image6" alt="Project 6" width="200"></a> | Brief description of project 6. |
 | <a href="link_to_repository7"><img src="link_to_thumbnail_image7" alt="Project 7" width="200"></a> | Brief description of project 7. |
