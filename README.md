@@ -13,19 +13,20 @@
 
 # My Projects and Products
 
-## My Projects
-
+Below are some of my projects with descriptions and links to their repositories:
 
 | Project | Description |
 |---------|-------------|
-| [![Unsupervised Satellite Image Building Rooftop Detection](1.jpg)](link_to_repository1) | Brief description of project 1. |
-| [![Project 2](link_to_thumbnail_image2)](link_to_repository2) | Brief description of project 2. |
-| [![Project 3](link_to_thumbnail_image3)](link_to_repository3) | Brief description of project 3. |
-| [![Project 4](link_to_thumbnail_image4)](link_to_repository4) | Brief description of project 4. |
-| [![Project 5](link_to_thumbnail_image5)](link_to_repository5) | Brief description of project 5. |
-| [![Project 6](link_to_thumbnail_image6)](link_to_repository6) | Brief description of project 6. |
-| [![Project 7](link_to_thumbnail_image7)](link_to_repository7) | Brief description of project 7. |
-| [![Project 8](link_to_thumbnail_image8)](link_to_repository8) | Brief description of project 8. |
+| <a href="link_to_repository1"><img src="1.jpg" alt="Unsupervised Satellite Image Building Rooftop Detection" width="200"></a> | Brief description of project 1. |
+| <a href="link_to_repository2"><img src="link_to_thumbnail_image2" alt="Project 2" width="200"></a> | Brief description of project 2. |
+| <a href="link_to_repository3"><img src="link_to_thumbnail_image3" alt="Project 3" width="200"></a> | Brief description of project 3. |
+| <a href="link_to_repository4"><img src="link_to_thumbnail_image4" alt="Project 4" width="200"></a> | Brief description of project 4. |
+| <a href="link_to_repository5"><img src="link_to_thumbnail_image5" alt="Project 5" width="200"></a> | Brief description of project 5. |
+| <a href="link_to_repository6"><img src="link_to_thumbnail_image6" alt="Project 6" width="200"></a> | Brief description of project 6. |
+| <a href="link_to_repository7"><img src="link_to_thumbnail_image7" alt="Project 7" width="200"></a> | Brief description of project 7. |
+| <a href="link_to_repository8"><img src="link_to_thumbnail_image8" alt="Project 8" width="200"></a> | Brief description of project 8. |
+
+
 
 ![Alt Text](howicode.png)
 
