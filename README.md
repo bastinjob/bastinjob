@@ -18,7 +18,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [![Unsupervised Satellite Image Building Rooftop Detection](link_to_thumbnail_image1)](link_to_repository1) | Brief description of project 1. |
+| [![Unsupervised Satellite Image Building Rooftop Detection](1.jpg)](link_to_repository1) | Brief description of project 1. |
 | [![Project 2](link_to_thumbnail_image2)](link_to_repository2) | Brief description of project 2. |
 | [![Project 3](link_to_thumbnail_image3)](link_to_repository3) | Brief description of project 3. |
 | [![Project 4](link_to_thumbnail_image4)](link_to_repository4) | Brief description of project 4. |
