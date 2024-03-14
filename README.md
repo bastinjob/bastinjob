@@ -18,7 +18,7 @@ Below are some of my projects with descriptions and links to their repositories:
 | Project | Description |
 |---------|-------------|
 | <a href="link_to_repository1"><img src="1.jpg" alt="Unsupervised Satellite Image Building Rooftop Detection" width="200"></a> | [Unsupervised Satellite Image Building Rooftop Detection](https://www.linkedin.com/posts/bastinjob_satelliteimaging-aiinnovation-unsupervisedlearning-activity-7094535204324671488-RhFm?utm_source=share&utm_medium=member_desktop) |
-| <a href="link_to_repository2"><img src="2.png" alt="Project 2" width="200"></a> | [Dining Hall Sushift Database Management System](https://github.com/bastinjob/Employee-Subshift-Database-System) |
+| <a href="link_to_repository2"><img src="2.png" alt="Project 2" width="200"></a> | [Dining Hall Subshift Database Management System](https://github.com/bastinjob/Employee-Subshift-Database-System) |
 | <a href="link_to_repository3"><img src="3.png" alt="Project 3" width="200"></a> | [Accelerated MRI Reconstruction Using Auto Encoders](https://github.com/bastinjob/Accelerated-MRI-Reconstruction-using-AutoEncoders) |
 
 
