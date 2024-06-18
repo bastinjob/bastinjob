@@ -1,6 +1,6 @@
 # Who am I ?
 
-#### Dedicated and innovative Data Professional with a 3+ years of professional experience. 
+#### A passionate data scienc and machine learning enthusiast with 3+ years of professional experience. 
 #### Strong background in machine learning, deep learning, and computer vision, natural language processing, big data analytics, and cloud computing.
 
  ### I put my code in outer space! [Learn More](https://tinyurl.com/2y66uber)
