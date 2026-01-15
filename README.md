@@ -9,7 +9,6 @@
 # What am I good at? 
 <img align="center" src="skills.png" alt="skills">
 
-![Alt Text](career.png)
 
 # My Projects and Products
 
